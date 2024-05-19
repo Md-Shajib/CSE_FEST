@@ -1,0 +1,81 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin-top: 0;
+  padding: 0;
+}
+/* html {
+  font-size: 62.5%;
+} */
+
+/* Section 2 */
+.section-2__website{
+  margin-top: 90px;
+}
+.section-2__website__h2{
+  background: rgb(190, 186, 186);
+  padding: 1rem 0;
+}
+
+.section-2__website h2 {
+  text-align: center;
+  padding: 1rem;
+  /* font-size: 2.5rem; */
+  font-size: 25px;
+}
+.common_2 {
+  display: flex;
+  justify-content: space-evenly;
+  border-bottom: 1px solid #000;
+  /* background-color: aquamarine; */
+  background: rgb(226, 225, 225);
+}
+.common_2__sub {
+  margin: 2rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  padding: 5px;
+}
+.common_2 h2 {
+  /* font-size: 2.5rem; */
+  font-size: 25px;
+  margin: 1rem 0;
+  text-align: center;
+}
+.common_2 p {
+  /* font-size: 2rem; */
+  font-size: 20px;
+  padding: 0 0.5rem;
+  text-align: center;
+}
+
+/* Media */
+@media screen and (max-width: 730px) {
+  .committee-1 h2 {
+    /* font-size: 2rem; */
+    font-size: 20px;
+  }
+  .committee-1 p {
+    /* font-size: 1.5rem; */
+    font-size: 15px;
+  }
+  .common_2 {
+    flex-direction: column;
+  }
+  .common_2 h2 {
+    /* font-size: 2rem; */
+    font-size: 20px;
+  }
+  
+  .common_2 p {
+    /* font-size: 1.5rem; */
+    font-size: 15px;
+  }
+  .section-2__website h2 {
+    /* font-size: 2rem; */
+    font-size: 20px;
+  }
+}

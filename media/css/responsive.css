@@ -1,0 +1,297 @@
+/* Extra small devices (portrait phones, less than 576px) */
+
+@media (max-width: 575.98px) {
+
+      .event_h3{
+
+            text-align: center;
+
+            padding: 15px 0px;
+
+            font-size: 30px;
+
+            /* font-weight: 800; */
+
+            font-family: 'Open Sans', sans-serif;
+
+      } 
+
+      .event-button{
+
+            font-size: 12px;
+
+            width: 90%;
+
+      }
+
+      .w_50{
+
+            width: 100% !important;
+
+      }
+
+      .section_div{
+
+            width: 95%;
+
+      }
+
+      .event_h3{
+
+            font-size: 20px;
+
+      }
+
+      .note{
+
+            font-size: 18px;
+
+            font-weight: 600;
+
+      }
+
+      .note_text{
+
+            align-self: center;
+
+            font-size: 15px;
+
+      }
+
+      .rules-Software{
+
+           display: inline;
+
+      }
+
+      .col_{
+
+            width: 100%;
+
+      }
+
+      .quiz_ul_list{
+
+            margin-left: 20px;
+
+      }
+
+      .robort_rules{
+
+            margin-left: 20px;
+
+      }
+
+      .contact_col{
+
+            width: 100%;
+
+      }
+      .org-text{
+            font-size: 20px;
+      }
+      .dept-text{
+            font-size: 17px;
+      }
+      .border_dark{
+            width: 20%;
+      }
+      .imag{
+            height: 120px;
+      }
+      .address_h5{
+            padding-left: 23px !important;
+            font-size: 14px !important;
+      }
+      .important-link {
+            margin-top: 2rem;
+      }
+      .organise{
+            margin-top: 1rem;
+      }
+      .contuct-middle{
+            font-size: 20px;
+            margin-bottom: 0px;
+      }
+      .menubar{
+            margin-left: 0px;
+      }
+      .dropdown-menu1{
+            margin-left: -12px;
+            width: 100%;
+      }
+      .menubar ul li {
+            padding-right: 0px;
+      }
+      .dropdown-menu1 ul li a{    
+            padding-right: 9px;}
+      .list{
+            font-size: 12px;
+            margin-top: 0px;
+            line-height: 2;
+      }
+      .cse_fest h1{
+            font-size: 20px;
+            padding-bottom: 0px;
+            margin-bottom: 0px;
+      }
+ }
+
+
+
+ /* Small devices (landscape phones, 576px and up) */
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+      .w_50{
+
+            width: 70%;
+
+      }
+
+      .event-button{
+
+            font-size: 14px;
+
+            width: 70%;
+
+      }
+
+      .section_div{
+
+            width: 90%;
+
+      }
+
+      .note{
+
+            font-size: 20px;
+
+            font-weight: 600;
+
+      }
+
+      .note_text{
+
+            align-self: center;
+
+            font-size: 18px;
+
+      }
+
+      .col_{
+
+            width: 100%;
+
+      }
+
+      .quiz_ul_list{
+
+            margin-left: 60px;
+
+      }
+
+      .robort_rules{
+
+            margin-left: 30px;
+
+      }
+
+      .contact_col{
+
+            width: 100%;
+
+      }
+      .important-link {
+            margin-top: 4rem;
+      }
+      .dept-text {
+            font-size: 30px;
+      }
+      .border_dark {
+            width: 20%
+      }
+
+ }
+
+
+
+/* // Medium devices (tablets, 768px and up) */
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+      .w_50{
+
+            width: 60%;
+
+      }
+
+      .event-button{
+
+            font-size: 17px;
+
+      }
+
+      .section_div{
+
+            width: 90%;
+
+      }
+
+      .note{
+
+            font-size: 21px;
+
+            font-weight: 700;
+
+      }
+
+      .note_text{
+
+            align-self: center;
+
+            font-size: 19px;
+
+      }
+
+      .col_{
+
+            width: 50%;
+
+      }
+
+ }
+
+
+
+/* // Large devices (desktops, 992px and up) */
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+      .section_div{
+
+            width: 80%;
+
+      }
+
+      .menubar ul li{
+
+            padding-left: 0px !important;
+
+            padding-right: 0px !important;
+
+      }
+
+      /* .col_{
+
+            width: 50% !important;
+
+        } */
+
+ }
+
+
+
+/* // Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 1200px) {  }

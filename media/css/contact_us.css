@@ -1,0 +1,235 @@
+
+
+*{
+
+	margin: 0px;
+
+	padding: 0px;
+
+	box-sizing: border-box;
+
+
+
+}
+
+
+
+.contuct-middle{
+
+	text-align: center;
+
+	font-size: 35px;
+
+	padding: 20px;
+
+}
+
+.contact_col{
+
+	width: 50%;
+
+}
+
+
+.varsity-name{
+
+	justify-content: center;
+
+	margin: 10px;
+
+	margin-bottom:10px ;
+
+}
+
+.varsity-name >h5{
+
+	padding-left: 20%;
+
+}
+
+
+
+.form-label{
+
+	font-size: 15px;
+
+	display: block;
+
+	padding-bottom: 5px;
+
+	color: gray;
+
+	opacity: 1 ;
+
+	transform-origin:0 0 ;
+
+	transition: all .3;
+
+}
+
+
+
+.email-1{
+
+	display: block;
+
+	padding-top: 45px;
+
+	padding-bottom: -151px;
+
+}
+
+.year-1{
+
+	display: block;
+
+	padding-top: 45px;
+
+}
+
+.messege-1{
+
+	display: block;
+
+	padding-top: 45px;
+
+}
+
+.address_h5{
+	padding-left: 6%;
+	font-size: 1.25rem;
+	
+}
+
+input{
+
+	position: absolute;
+
+	width: 550px;
+
+	height: 40px;
+
+	font-size: 17px;
+
+	border-radius: 3px;
+
+	box-sizing: border-box;
+
+}
+
+
+
+label.form-label {
+
+    margin-bottom: -0.3rem;
+
+}
+
+
+
+input[type="text"]
+
+{
+
+	background: whitesmoke;
+
+	border: .5px black solid;
+
+	outline: none;
+
+	padding:0px 20px;
+
+}
+
+select[name="year"]
+
+{
+
+	background: whitesmoke;
+
+	border: .5px black solid;
+
+	outline: none;
+
+	padding:0px 20px;
+
+}
+
+textarea
+
+{
+
+	background: whitesmoke;
+
+	border: .5px black solid;
+
+	outline: none;
+
+	padding:0px 20px;
+
+}
+
+
+
+.submit-messege{
+
+	padding-top: 15px;
+
+	padding-bottom: 30px ;
+
+}
+
+
+
+input[type="submit"]
+
+{
+
+	position: relative;
+
+
+	width: 170px ;
+
+	height: 30px ;
+
+	border: none;
+
+	outline: none;
+
+	cursor: pointer;
+
+	background: #C1CAB7;
+
+}
+
+.address{
+
+	padding-left: 30px;
+
+	padding-bottom: 30px;
+
+}
+
+
+
+.address-1{
+
+	padding-right: 15px;
+
+	text-align: center;
+
+}
+
+.map{
+
+	display: flex;
+
+	width: 600px;
+
+	justify-content: center;
+
+	align-items: center;
+
+	background-size: cover;
+
+}

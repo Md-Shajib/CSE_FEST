@@ -1,0 +1,232 @@
+.imag {
+
+    width: 100%;
+
+    height: 250px;
+
+}
+
+
+
+.org-text {
+
+    align-content: center;
+    color: black;
+    text-decoration: none !important;
+
+}
+
+
+
+.refer:hover {
+
+    text-decoration: none !important;
+
+}
+
+.organise {
+    margin-top: 3rem;
+    padding-bottom: 1rem;
+}
+
+.organise:hover {
+
+    cursor: pointer;
+
+    text-decoration: none !important;
+
+}
+
+
+
+
+
+/* .organise:hover:active {
+
+    text-decoration: none!important;
+
+} */
+
+
+
+.dept-text {
+
+    font-size: 40px;
+
+    color: blueviolet;
+
+    font-weight: bolder;
+
+    font-family: calibri;
+
+    text-decoration: none !important;
+
+}
+
+
+
+.imeg {
+
+    width: 100px;
+
+}
+
+
+
+.varsity-tag {
+
+    font-style: italic;
+
+    font-size: 15px;
+
+    font-display: block;
+
+}
+
+
+
+.varsity-description {
+
+    font-size: 15px;
+
+    text-align: justify;
+
+}
+
+
+
+.dept-img {
+
+    width: 100px;
+
+}
+
+
+
+.izo {
+
+    opacity: 1;
+
+    transition-duration: 1.25s;
+
+    transform: scale(1, 1);
+
+}
+
+
+
+.izo:hover {
+
+    opacity: 1;
+
+
+
+    transform: scale(1.1, 1.1);
+
+}
+
+
+
+.oh {
+
+    /* overflow: visible; */
+
+    overflow: hidden;
+
+}
+
+
+
+.important-link {
+
+    margin-top: 5rem;
+
+}
+
+
+
+.call-icon {
+
+    -webkit-transform: rotate(110deg);
+
+    -moz-transform: rotate(110deg);
+
+    -ms-transform: rotate(110deg);
+
+    -o-transform: rotate(110deg);
+
+    transform: rotate(110deg);
+
+}
+
+
+
+.btn {
+
+    font-size: 15px;
+
+    font-weight: bolder;
+
+}
+
+
+
+.btn:hover {
+
+    background-color: red;
+
+    color: rgb(36, 3, 67);
+
+}
+
+.border_dark {
+
+    width: 10%;
+
+    border: 1px solid black;
+
+    border-width: thin;
+
+}
+
+.border_dark:hover {
+
+
+
+    background-color: grey;
+
+    border-color: gray;
+
+    color: white;
+
+    letter-spacing: 3px;
+
+}
+
+.footer_media_icon {
+
+    font-size: 23px;
+
+    color: white;
+
+}
+
+.footer_media_icon:hover {
+
+    color: white
+}
+
+.main_office_span {
+    padding-right: 6px;
+}
+
+.main_office_span_i {
+    transform: rotate(83deg);
+}
+
+
+.footer-link a:hover {
+    color: rgb(255, 255, 78) !important;
+    text-decoration: underline !important;
+    transition: 0.3s !important;
+}

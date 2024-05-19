@@ -1,0 +1,258 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
+
+
+
+.btn:focus{
+
+      box-shadow: none !important;
+
+}
+
+
+
+
+
+
+
+
+
+.section_color{
+
+      background-color: rgba(241, 242, 244, 0.758);
+
+      padding: 15px 0px;
+
+}
+
+.section_div{
+
+      width: 85%;
+
+}
+
+
+
+
+
+.event_h3{
+
+      text-align: center;
+
+      padding: 20px 0px;
+
+      font-size: 40px;
+
+      font-weight: 800;
+
+      font-family: 'Open Sans', sans-serif;
+
+}
+
+.event_px{
+
+      padding: 20px 0px;
+
+}
+
+.display_none{
+
+      display: none;
+
+      width: 0px!important;
+
+}
+
+.w_50{
+
+      width: 50%;
+
+}
+
+.event-button{
+
+    background-color: #225abc;
+
+    font-size: 22px;
+
+    font-weight: 700;
+
+    color: white;
+
+    background-image: linear-gradient(#0f1d4c, #6b9ebf);
+
+    width: 60%;
+
+    border-radius: 12px;
+
+    padding: 12px 10px;
+
+    transition: 1000ms;
+
+
+
+}
+
+
+
+.event-button:hover{
+
+      color: white;
+
+      background-image: linear-gradient(#081233, #255b7e); 
+
+      transition: 500ms;
+
+}
+
+
+
+/* rules page */
+
+
+
+.list{
+
+      font-family: 'Open Sans', sans-serif;
+
+      font-size: 16px;
+      margin-top: 50px;
+      line-height: 2.2;
+      font-weight: 800;
+      color: black;
+
+}
+.cse_fest h1{
+      font-size: 30px;
+      padding: 16px 0px;
+}
+
+.list_2{
+
+      font-weight:600 ;
+
+      
+
+}
+
+.list_ul_li{
+
+      font-family: 'Open Sans', sans-serif;
+
+      font-weight:600 ;
+
+      font-size: 14px;
+
+      padding: 15px 0px;
+
+}
+
+
+
+.note{
+
+      font-size: 25px;
+
+      font-weight: 700;
+
+}
+
+.note_text{
+
+      align-self: center;
+
+      font-size: 21px;
+
+      font-weight: 600;
+
+}
+
+.list_bold{
+
+      font-weight: 600;
+
+}
+
+.codemarshal{
+
+      color: green;
+
+      text-decoration: none;
+
+}
+
+.codemarshal:hover{
+
+      font-size: 18px !important;
+
+      transition: 2s;
+
+      color: rgb(9, 152, 121);
+
+}
+
+.language{
+
+   padding: 25px 0px;   
+
+}
+
+.judge_link{
+
+      color: green;
+
+      text-decoration: none; 
+
+}
+
+.judge_link:hover{
+
+      color: green;
+
+      text-decoration: underline;
+
+}
+
+
+
+/* project sowaching */
+
+.rules-Software{
+
+      display: flex;
+
+}
+
+/* quiz page */
+
+.quiz_ul_list{
+
+      margin-left: 100px;
+
+}
+
+/* robortics page */
+
+.robort_rules{
+
+      margin-left: 60px;
+
+}
+
+
+
+/* home page */
+
+.owl_carosul_image{
+
+      
+
+      border-radius: 12px;
+
+      overflow: hidden;
+
+      
+
+}
+
